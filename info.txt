@@ -1,2 +1,1 @@
-module 11: Demo Publish Local Repo using Smartgit
-lesson 4
+module 11: 
